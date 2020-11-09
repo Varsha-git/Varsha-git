@@ -18,7 +18,7 @@ I like to learn new skills so that I can be part of every cycle of project.:smil
 [![alt text][4.1]][4]
 
 [2.1]: https://i.imgur.com/gnszZWn.png
-[3.1]: https://i.imgur.com/Vahbdkj.png
+[3.1]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
 [4.1]: https://i.imgur.com/7T7Q9w9.jpeg
 
 
