@@ -13,13 +13,9 @@ I like to learn new skills so that I can be part of every cycle of project.:smil
 ## **Lets Connect here **
 <br>
 
-[![alt text][2.1]][2] 
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-
-[2.1]: https://i.imgur.com/gnszZWn.png
-[3.1]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
-[4.1]: https://i.imgur.com/7T7Q9w9.jpeg
+[<img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][2]
+[<img align="left"  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][3]
+[<img align="left"  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][4]
 
 
 [2]: https://www.facebook.com/varsha.bisht86
