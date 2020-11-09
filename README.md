@@ -12,9 +12,10 @@ I like to learn new skills so that I can be part of every cycle of project.:smil
 
 ## **Lets Connect here **
 <br>
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
+
+![alt text][2.1][2] 
+![alt text][3.1][3]
+![alt text][4.1][4]
 
 [2.1]: https://i.imgur.com/gnszZWn.png
 [3.1]: https://i.imgur.com/Vahbdkj.png
