@@ -1,8 +1,8 @@
 ### **Hello Githubies!!** 👋
-My name is Varsha Bisht. I love being a part of developer community where I always get motviated by people's work. I love to build and develop from scratch.
-Java is my favourite programming language.
-I did my post graduation from largest fully residential women's university in the world Banasthali Vidyapeeth.
-I am always curious in how each and every little concept make a huge software.
+My name is Varsha Bisht. I love being a part of developer community where I always get motviated by people's work. I love to build and develop from scratch. <br>
+Java is my favourite programming language.<br>
+I did my post graduation from largest fully residential women's university in the world Banasthali Vidyapeeth.<br>
+I am always curious in how each and every little concept make a huge software.<br>
 I like to learn new skills so that I can be part of every cycle of project.
 
 
