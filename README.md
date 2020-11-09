@@ -6,7 +6,7 @@ I did my post graduation from largest fully residential women's university in th
 I am always curious in how each and every little concept make a huge software.<br>
 I like to learn new skills so that I can be part of every cycle of project.:smiley: <br>
 
-## **I beleive** :love:
+## **I beleive** :proud:
 ![Alt Text](https://media4.giphy.com/media/Rlqcx1oXUGlAHENWRS/giphy.gif?cid=ecf05e471a31a11f2d93009b29a74ab77c53187944a0b8b8&rid=giphy.gif) 
 <br><br>
 
