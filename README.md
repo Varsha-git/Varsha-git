@@ -1,4 +1,10 @@
-### Hi there 👋
+### **Hello Githubies!!** 👋
+My name is Varsha Bisht. I love being a part of developer community where I always get motviated by people's work. I love to build and develop from scratch.
+Java is my favourite programming language.
+I did my post graduation from largest fully residential women's university in the world Banasthali Vidyapeeth.
+I am always curious in how each and every little concept make a huge software.
+I like to learn new skills so that I can be part of every cycle of project.
+
 
 <!--
 **Varsha-git/Varsha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
