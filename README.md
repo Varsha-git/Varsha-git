@@ -21,6 +21,9 @@ I like to learn new skills so that I can be part of every cycle of project.:smil
 [2]: https://www.facebook.com/varsha.bisht86
 [3]: https://www.linkedin.com/in/varsha-singh-bisht-314047177/
 [4]: https://www.instagram.com/versha_bisht_/
+<br>
+
+# **Have a look into my pinned projects**
 <!--
 **Varsha-git/Varsha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
