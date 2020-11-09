@@ -13,7 +13,7 @@ I like to learn new skills so that I can be part of every cycle of project.:smil
 ## **Lets Connect here **
 <br>
 
-[<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][2]
+[<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/facebook.svg" />][2]
 [<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][3]
 [<img align="left"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][4]
 
