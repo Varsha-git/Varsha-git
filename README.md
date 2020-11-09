@@ -12,12 +12,14 @@ I like to learn new skills so that I can be part of every cycle of project.:smil
 
 ## **Lets Connect here **
 
-[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[2.1]: https://i.imgur.com/gnszZWn.png
+[3.1]: https://i.imgur.com/Vahbdkj.png
+[4.1]: https://i.imgur.com/7T7Q9w9.jpeg
 
 
-[instagram]: https://www.instagram.com/versha_bisht_/
-[linkedin]: https://www.linkedin.com/in/varsha-singh-bisht-314047177/?lipi=urn%3Ali%3Apage%3Aprofile_view_index_index%3Bz6%2BJoWeOROuY8Emi1YWkXQ%3D%3D
+[2]: https://www.facebook.com/varsha.bisht86
+[3]: https://www.linkedin.com/in/varsha-singh-bisht-314047177/
+[4]: https://www.instagram.com/versha_bisht_/
 <!--
 **Varsha-git/Varsha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
